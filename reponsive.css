@@ -1,0 +1,219 @@
+@media(min-width: 1200px){
+    .main .contact {
+        margin-bottom: 20px;
+    }
+    footer {
+        width: 1200px;
+        margin-left: 160px;
+    }
+}
+@media (max-width: 1100px) {
+    .top{
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .top #login{
+        padding:20px;
+        margin-left: 10px;
+    }
+    .top #logo{
+        margin-left: 0px;
+        
+    }
+    .top #logo img{
+        left: -75px;
+    }
+    .top #search{
+        margin-left: 0px;
+    }
+    .menu-top ul{
+        margin-left: 120px;
+    }
+    .main form{
+        margin-top: 10px;
+    }
+    footer div{
+        margin: 0 auto;
+        width: 800px;
+        margin-left: 100px;
+    }
+    footer .footer-cpr{
+        width: 800px;
+    }
+    footer .footer-cpr #cpr{
+        margin-left: 140px;
+    }
+    footer .footer-cpr #cpr li {
+        width: 260px;
+    }
+}
+@media (max-width: 768px) {
+    .top{
+
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    .top #login{
+        padding:20px;
+        margin-left: 5px;
+    }
+    .top #logo{
+        margin-left: 0px; 
+    }
+    .top #logo img{
+        left: -80px;
+    }
+    .top #search{
+        margin-left: -110px;
+    }
+    .menu-top{
+        margin-top: 0;
+    }
+    .menu-top ul{
+        margin-left: 40px;
+    }
+    .main form{
+        margin-top: 10px;
+        width: 600px;
+    }
+    .main .fake-selected .selected-list li i{
+        left: 490px;
+    }
+    .main input#F-name,input#L-name {
+        width: 250px;
+    }
+    .main form input#email {
+        width: 550px;
+    }
+    .main form .fake-selected{
+        width: 550px;
+    }
+    .main form textarea{
+        width: 520px;
+        margin-left: 25px;
+    }
+    .main #submit{
+        margin-left: 385px;
+    }
+    .main form .input {
+        width: 270px;
+    }
+    footer div{
+        margin: 0 auto;
+        width: 700px;
+    }
+    footer .footer-cpr #cpr li {
+        width: 300px;
+    }
+}
+@media (max-width: 656px) {
+    .top{
+        max-width: 600px;
+        height: 70px;
+        margin: 0 auto;
+    }
+    .top #login{
+        padding:15px;
+        margin-left: 0px;
+    }
+    .top #logo{
+        margin-left: 0px; 
+        margin-right: 150px;
+    }
+    .top #logo h1{
+        width: 160px;
+    }
+    .top #logo img{
+        left: -90px;
+    }
+    .top #search{
+        margin-left:-215px;
+        width: 155px;
+    }
+    .top #search button{
+        left: 135px;
+    }
+    .menu-top{
+        margin-top: -15px;
+    }
+    .menu-top ul{
+        margin-left: 5px;
+    }
+    .menu-top ul li a{
+        font-size: 13px;
+        padding: 0 10px;
+    }
+    .main .contact {
+        margin-bottom: 10px;
+    }
+    .main .contact a{
+        padding-left: 30px;
+    }
+    .main form{
+        margin: 0 auto;
+        width: 450px;
+        position: relative;
+    }
+    .main .fake-selected .selected-list li i{
+        left: 350px;
+    }
+    .main input#F-name,input#L-name {
+        width: 400px;
+    }
+    .main input#F-name{
+        margin-bottom: 30px;
+    }
+    .main form input#email {
+        width: 400px;
+    }
+    .main form .fake-selected{
+        width: 400px;
+    }
+    .main form textarea{
+        width: 400px;
+        margin-left: 25px;
+    }
+    .main #submit{
+        margin-left: 240px;
+    }
+    .main form .input {
+        width: 270px;
+    }
+    .main form .input:nth-child(2){
+        position: absolute;
+        top: 90px;
+        left: 0;
+    }
+    footer div{
+        width: 555px;
+    }
+    footer .in4 ul{
+        /* width: 200px; */
+        margin-left: 5px;
+        font-size: 15px;
+    }
+    footer .footer-cpr #social {
+        width: 215px;
+    }
+    footer .footer-cpr #social img{
+        width: 40px;
+    }
+    footer .footer-cpr #to-top{
+        height: 35px;
+        width: 35px;
+        left: 175px;
+        font-size: 20px;
+    }
+    footer .footer-cpr #cpr{
+        margin-left: 50px;
+    }
+    footer .footer-cpr #cpr li {
+        width: 215px;
+        font-size: 15px;
+    }
+}
+/* @media(min-width: 768px){
+    .main textarea {
+        width: 500px;
+    }
+} */
